@@ -1,0 +1,72 @@
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\bin\Debug\DOANTINHOC.exe.config
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\bin\Debug\DOANTINHOC.exe
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\bin\Debug\DOANTINHOC.pdb
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.AssemblyReference.cache
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.Form1.resources
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.Form2.resources
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.Properties.Resources.resources
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.GenerateResource.cache
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.exe
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.pdb
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.Form3.resources
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.Form4.resources
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.THONGKE.resources
+C:\Users\lachi\Desktop\DOANTINHOC\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.HOADON.resources
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\bin\Debug\DOANTINHOC.exe.config
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\bin\Debug\DOANTINHOC.exe
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\bin\Debug\DOANTINHOC.pdb
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.Form4.resources
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.HOADON.resources
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.THONGKE.resources
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.Form1.resources
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.Form2.resources
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.Form3.resources
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.Properties.Resources.resources
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.GenerateResource.cache
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.exe
+D:\Visual Studio 2022\C#\DOANTINHOC\DOANTINHOC\obj\Debug\DOANTINHOC.pdb
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\bin\Debug\DOANTINHOC.exe.config
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\bin\Debug\DOANTINHOC.exe
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\bin\Debug\DOANTINHOC.pdb
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.AssemblyReference.cache
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.Form4.resources
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.HOADON.resources
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.Form1.resources
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.Form2.resources
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.Form3.resources
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.Properties.Resources.resources
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.GenerateResource.cache
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.exe
+C:\Users\lachi\Desktop\DOANTINHOC (1)\DOANTINHOC\obj\Debug\DOANTINHOC.pdb
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\bin\Debug\DOANTINHOC.exe.config
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\bin\Debug\DOANTINHOC.exe
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\bin\Debug\DOANTINHOC.pdb
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.AssemblyReference.cache
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.Form4.resources
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.HoaDon.resources
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.Form1.resources
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.Form2.resources
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.Form3.resources
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.Properties.Resources.resources
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.GenerateResource.cache
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.CoreCompileInputs.cache
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.exe
+C:\Users\THANH\Documents\Zalo Received Files\DOANTINHOC (1) (1)\DOANTINHOC\obj\Debug\DOANTINHOC.pdb
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\bin\Debug\DOANTINHOC.exe.config
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\bin\Debug\DOANTINHOC.exe
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\bin\Debug\DOANTINHOC.pdb
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.Form4.resources
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.Form1.resources
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.Form2.resources
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.Form3.resources
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.Properties.Resources.resources
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.GenerateResource.cache
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.exe
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.pdb
+D:\Visual Studio 2022\C#\DOANTINHOCTEST\DOANTINHOC\obj\Debug\DOANTINHOC.ChuongTrinh.Form5.resources

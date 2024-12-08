@@ -1,0 +1,6 @@
+﻿XE01|Xe Số
+XE02|Xe Côn
+XE03|Xe Tay Ga
+XE04|Xe MoTo(PKL)
+XE05|Xe WAVE
+XXX|Xe Tank
