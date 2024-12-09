@@ -72,10 +72,10 @@
             this.chart1.Name = "chart1";
             series1.ChartArea = "ChartArea1";
             series1.Legend = "Legend1";
-            series1.Name = "so_luong_ban_theo_tung_ma_loai";
+            series1.Name = "so_luong_ban_theo_tung_ten_loai";
             series2.ChartArea = "ChartArea1";
             series2.Legend = "Legend1";
-            series2.Name = "tong_tien_ban_theo_tung_ma_loai";
+            series2.Name = "tong_tien_ban_theo_tung_ten_loai";
             this.chart1.Series.Add(series1);
             this.chart1.Series.Add(series2);
             this.chart1.Size = new System.Drawing.Size(1013, 417);

@@ -103,6 +103,7 @@ namespace DOANTINHOC
             }
             return false;
         }
+
         public List<Xe> fileDoc(string path,bool getall = false)
         {
             List<Xe> dsX = new List<Xe>();

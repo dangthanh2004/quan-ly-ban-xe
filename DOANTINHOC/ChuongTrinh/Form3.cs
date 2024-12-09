@@ -22,13 +22,24 @@ namespace DOANTINHOC
         private XuLyXe xlx = new XuLyXe();
         private void hienthi()
         {
-            dgv.DataSource = xlx.dsx().ToList();
+            var dsXe = new List<Xe>();
+
+            foreach (Xe xe in xlx.dsx())
+            {
+                if (xe.Cobixoahaykhong == 0)
+                {
+                    dsXe.Add(xe);
+                }
+            }
+
+            dgv.DataSource = dsXe;
             dgv.Columns.Remove("Cobixoahaykhong");
         }
         private void Form3_Load(object sender, EventArgs e)
         {
             string pathXe = Application.StartupPath + "\\CTxe.txt";
-            xlx.Ds = xlx.fileDoc(pathXe);
+            xlx.Ds = xlx.fileDoc(pathXe, true);
+
             hienthi();
         }
 

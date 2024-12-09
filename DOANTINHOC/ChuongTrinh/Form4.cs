@@ -35,13 +35,16 @@ namespace DOANTINHOC.ChuongTrinh
         {
             // Load danh sach xe
             string pathXe = Application.StartupPath + "\\CTxe.txt";
-            xlx.Ds = xlx.fileDoc(pathXe);
+            xlx.Ds = xlx.fileDoc(pathXe, true);
 
             var dsMaXe = new List<string>();
 
             foreach (Xe xe in xlx.dsx())
             {
-                dsMaXe.Add(xe.Maxe);
+                if (xe.Cobixoahaykhong == 0)
+                {
+                    dsMaXe.Add(xe.Maxe);
+                }
             }
 
             cbbMaXe.DataSource = dsMaXe;
@@ -59,8 +62,7 @@ namespace DOANTINHOC.ChuongTrinh
         {
             string pathHoaDon = Application.StartupPath + "\\HoaDon.txt";
             xl.fileGhi(xl.DSHD, pathHoaDon);
-            string pathXe = Application.StartupPath + "\\CTxe.txt";
-            xlx.Ds = xlx.fileDoc(pathXe);
+            
         }
         private void btnThem_Click(object sender, EventArgs e)
         {
@@ -82,7 +84,7 @@ namespace DOANTINHOC.ChuongTrinh
                 }    
             }    
            
-            luufile();
+         
             loadCombobox();
             hienthi();
         }
@@ -140,18 +142,20 @@ namespace DOANTINHOC.ChuongTrinh
             }
         }
 
-        private void btnXoa_Click(object sender, EventArgs e)
-        {
-            string ma = txtMaDon.Text;
-            if (xl.xoa(ma))
-            {
-                hienthi();
-            }
-            else
-            {
-                MessageBox.Show("Ma khong ton tai");
-            }
-        }
+        //private void btnXoa_Click(object sender, EventArgs e)
+        //{
+        //    string ma = txtMaDon.Text;
+        //    if (xl.xoa(ma))
+        //    {
+        //        luufile();
+        //        hienthi();
+                
+        //    }
+        //    else
+        //    {
+        //        MessageBox.Show("Ma khong ton tai");
+        //    }
+        //}
 
         private void btnThongKe_Click(object sender, EventArgs e)
         {
@@ -181,24 +185,17 @@ namespace DOANTINHOC.ChuongTrinh
         {
             string maHoaDon = txtMaDon.Text;
             string maXeCuaHoaDon = cbbMaXe.Text;
-            if (xl.xoa(maHoaDon))
-            {
-                string pathXe = Application.StartupPath + "\\CTxe.txt";
-                List<Xe> dsxe = xlx.fileDoc(pathXe,true);
-                foreach (Xe x in dsxe.ToList())
+            if (xl.xoa(maHoaDon)) {
+                
+                Xe x = xlx.tim(maXeCuaHoaDon);
+                if (x != null)
                 {
-                    if(x.Maxe == maXeCuaHoaDon)
-                    {
-                        x.Cobixoahaykhong = 0;
-                        xlx.sua(x);
-                        xlx.fileLuu(dsxe,pathXe);
-                        break;
-                    }    
+                    x.Cobixoahaykhong = 0;
+                    xlx.sua(x);
                 }
-
+               
                 hienthi();
             }
-          
         }
     }
 }

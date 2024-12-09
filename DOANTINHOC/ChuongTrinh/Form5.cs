@@ -32,14 +32,14 @@ namespace DOANTINHOC.ChuongTrinh
 
         private void btnThongKeTheoSoLuong_Click(object sender, EventArgs e)
         {
-            chart1.Series["tong_tien_ban_theo_tung_ma_loai"].Points.Clear();
-            chart1.Series["so_luong_ban_theo_tung_ma_loai"].Points.Clear();
+            chart1.Series["tong_tien_ban_theo_tung_ten_loai"].Points.Clear();
+            chart1.Series["so_luong_ban_theo_tung_ten_loai"].Points.Clear();
 
             Dictionary<string, int> soluongBanTheoMaLoaiDic = new Dictionary<string, int>();
 
             foreach (CHoaDon hoadon in xl.dshd())
             {
-                string key = hoadon.Maloai;
+                string key = hoadon.Tenloai;
                 if (soluongBanTheoMaLoaiDic.ContainsKey(key))
                 {
                     soluongBanTheoMaLoaiDic[key] += 1;
@@ -54,7 +54,7 @@ namespace DOANTINHOC.ChuongTrinh
 
             foreach (KeyValuePair<string, int> keyValuePair in soluongBanTheoMaLoaiDic)
             {
-                chart1.Series["so_luong_ban_theo_tung_ma_loai"].Points.AddXY(keyValuePair.Key, keyValuePair.Value);
+                chart1.Series["so_luong_ban_theo_tung_ten_loai"].Points.AddXY(keyValuePair.Key, keyValuePair.Value);
             }
 
             if (chart1.Titles.Count() > 0)
@@ -62,21 +62,21 @@ namespace DOANTINHOC.ChuongTrinh
                 chart1.Titles.RemoveAt(0);
             }
 
-            chart1.Titles.Add("Thống Kê Số Lượng Bán Theo Từng Mã Loại");
+            chart1.Titles.Add("Thống Kê Số Lượng Bán Theo Từng Tên Loại");
         }
 
         private void btnThongKeSoTienBan_Click(object sender, EventArgs e)
         {
 
-            chart1.Series["tong_tien_ban_theo_tung_ma_loai"].Points.Clear();
-            chart1.Series["so_luong_ban_theo_tung_ma_loai"].Points.Clear();
+            chart1.Series["tong_tien_ban_theo_tung_ten_loai"].Points.Clear();
+            chart1.Series["so_luong_ban_theo_tung_ten_loai"].Points.Clear();
 
 
             Dictionary<string, int> tongTienTheoMaLoai = new Dictionary<string, int>();
 
             foreach (CHoaDon hoadon in xl.dshd())
             {
-                string key = hoadon.Maloai;
+                string key = hoadon.Tenloai;
                 if (tongTienTheoMaLoai.ContainsKey(key))
                 {
                     tongTienTheoMaLoai[key] += int.Parse(hoadon.Giaban);
@@ -91,7 +91,7 @@ namespace DOANTINHOC.ChuongTrinh
 
             foreach (KeyValuePair<string, int> keyValuePair in tongTienTheoMaLoai)
             {
-                chart1.Series["tong_tien_ban_theo_tung_ma_loai"].Points.AddXY(keyValuePair.Key, keyValuePair.Value);
+                chart1.Series["tong_tien_ban_theo_tung_ten_loai"].Points.AddXY(keyValuePair.Key, keyValuePair.Value);
             }
 
 
@@ -99,7 +99,7 @@ namespace DOANTINHOC.ChuongTrinh
             {
                 chart1.Titles.RemoveAt(0);
             }
-            chart1.Titles.Add("Thống Kê Số Tiền Bán Theo Từng Mã Loại");
+            chart1.Titles.Add("Thống Kê Số Tiền Bán Theo Từng Tên Loại");
         }
 
         private void Form5_FormClosed(object sender, FormClosedEventArgs e)
